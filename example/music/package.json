@@ -1,0 +1,11 @@
+{
+  "name": "music-example",
+  "version": "0.0.0",
+  "browser": {
+    "baudio": "node_modules/webaudio/webaudio.js"
+  },
+  "dependencies": {
+    "baudio": "~1.0.0",
+    "webaudio": "~1.0.0"
+  }
+}

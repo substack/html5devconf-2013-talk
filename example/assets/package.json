@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "main": "main.js",
+  "browserify": {
+    "transform": [ "brfs" ]
+  },
+  "dependencies": {
+    "brfs": "~0.0.3"
+  }
+}
